@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>Zhaoyi Ye</title>
+  <defs>
+    <clipPath id="icon-shape">
+      <rect width="64" height="64" rx="12"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#icon-shape)">
+    <rect width="64" height="64" fill="#2479af"/>
+    <rect y="56" width="64" height="8" fill="#9fcbb7"/>
+  </g>
+  <path d="M12 18H30L12 46H30 M36 18L45 31L54 18 M45 31V46"
+        fill="none" stroke="#fff" stroke-width="5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
